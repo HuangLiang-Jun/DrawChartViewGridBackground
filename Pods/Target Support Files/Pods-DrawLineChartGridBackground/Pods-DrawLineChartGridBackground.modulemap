@@ -1,0 +1,6 @@
+framework module Pods_DrawLineChartGridBackground {
+  umbrella header "Pods-DrawLineChartGridBackground-umbrella.h"
+
+  export *
+  module * { export * }
+}
